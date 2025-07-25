@@ -1,0 +1,17 @@
+* {
+	font-family: "Monaco";	
+	font-size: 14;
+	background-color: darkgrey;
+	
+}
+
+.rezept-liste {
+	border: 1px solid skyblue;
+	margin: 16px 16px;
+	padding: 16px;
+	
+}
+
+li {
+	margin: 8px 16px;
+}

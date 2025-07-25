@@ -1,0 +1,32 @@
+* {
+	font-size: 16px;
+	font-family: "Monaco";
+}
+
+.thumbnail{
+	margin: 0 auto;
+	border: 1px solid #999;
+	padding: 4px;
+	
+} 
+
+.zutaten-liste {
+	border: 1px solid #999;
+}
+
+.schritt-liste {
+	border: 1px solid #999;
+	
+}
+
+li {
+	margin: 16px 8px;
+}
+
+h2 {
+	font-size: 32px;
+}
+
+h3 {
+	font-size: 24px;
+}
